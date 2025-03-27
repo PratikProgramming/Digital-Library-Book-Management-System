@@ -28,5 +28,5 @@ A command-line application for managing book records in a digital library system
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PratikProgramming/library-management-system.git
+//git clone https://github.com/PratikProgramming/library-management-system.git
 cd library-management-system
